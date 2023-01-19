@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.io/workout",
+  "homepage": "https://lillards.github.io/workout",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react-router-dom": "^6.6.2"
